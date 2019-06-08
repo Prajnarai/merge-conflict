@@ -4,6 +4,7 @@ Initial Function()
 {
   //Sample Code
   merge conflict feature1
+	  updated 
 }
 
 feature1()
